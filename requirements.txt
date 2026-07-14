@@ -1,2 +1,0 @@
-py-cord==2.7.0
-mcstatus==11.1.1
